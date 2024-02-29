@@ -81,27 +81,29 @@ print("Lenght of X_test ",len(X_test))
 
 ## OUTPUT:
 ### DATASET
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/fb93df05-0d85-46cd-8b72-f1b5dbb2f45e)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/2fb85e34-a1d3-4f37-9ddd-08158ecc16d5)
 ### X VALUES
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/6f82f7d9-a77a-4b07-b1c1-9e00adeff7ee)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/78897b56-4e80-4ccb-afea-2686b900fe40)
 ### Y VALUES
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/3401a399-4672-416c-9735-0762b076671e)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/c91a7483-1090-4fd7-ac9b-1aed66d6a66b)
 ### NULL
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/d91cc7c2-d007-4015-b247-fb31ac81acf4)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/1523c24e-e575-4d67-b093-e248ac06145d)
 ### DUPLICATE
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/a4ee7771-e2c4-4c37-89b3-975b225f734c)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/849ec8ab-63f4-4876-987d-077cbae6f320)
 ### DESCRIBE
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/27bb11f8-6d9f-4f46-9ee4-4b3a4ab026d1)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/775ae6df-165a-42f5-a820-08a95b67182a)
 ### DATASET AFTER DROPPING
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/f224cb6d-38d7-43a1-9fbf-41f927583e23)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/0763d987-7c2c-4feb-b57a-f18324ddaed1)
 ### NORMALIZE DATASET
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/ed14c22a-b340-481d-8f96-240e0e18c8e7)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/31953775-7000-4fe3-8b83-f8ecd8ce3aae)
 ### X TRAIN
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/69fa3229-5788-4c90-86e8-9614d6b00aaa)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/91623ab4-37a9-4258-b0c8-fc2a1b8bdfb8)
 ### X TEST
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/6dbf4cca-969f-419d-82d4-f95c91a9e18d)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/dcfdc6fa-1093-4bee-9e62-84bd2d5fec68)
 ### LENGTH
-![image](https://github.com/MukeshVelmurugan/Ex-1-NN/assets/118707363/63aa77f8-f224-4657-8f1c-a79496aa59bc)
+![image](https://github.com/VinithaNaidu/Ex-1-NN/assets/121166004/56ccbcdf-1786-49f8-b4c1-071f57e4f8c5)
+
+
 
 
 
