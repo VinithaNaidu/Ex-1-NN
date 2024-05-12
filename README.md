@@ -1,7 +1,7 @@
 ###  NAME : VINITHA . D
 ###  REGISTER NO : 212222230175
 ### EX. NO.1
-### DATE : 25/2/2024
+### DATE :
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
