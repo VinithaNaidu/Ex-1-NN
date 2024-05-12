@@ -1,5 +1,5 @@
-### ENTER YOUR NAME : VINITHA . D
-### ENTER YOUR REGISTER NO : 212222230175
+###  NAME : VINITHA . D
+###  REGISTER NO : 212222230175
 ### EX. NO.1
 ### DATE : 25/2/2024
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
